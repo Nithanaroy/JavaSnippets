@@ -3,7 +3,7 @@ package selfpractice.trees2;
 public class Main {
 
 	public static void main(String[] args) {
-		BinaryTree b = new BinaryTree();
+		BinarySearchTree b = new BinarySearchTree();
 		b.insert(4);
 		b.insert(3);
 		b.insert(2);

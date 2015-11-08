@@ -3,10 +3,10 @@ package selfpractice.trees2;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class BinaryTree {
-	Node head;
+public class BinarySearchTree {
+	public Node head;
 
-	public BinaryTree() {
+	public BinarySearchTree() {
 		head = null;
 	}
 
